@@ -1,5 +1,5 @@
 # leetcode-python3
-파이썬으로 푼 SWEA 소스코드 저장소입니다.
+파이썬으로 푼 [SW Expert Academy](https://swexpertacademy.com/main/main.do) 소스코드 저장소입니다.
 
 ## Language 
 Python3
